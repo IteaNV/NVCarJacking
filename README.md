@@ -2,7 +2,7 @@
 NVCarJacking permet de déverrouiller et de démarrer un véhicule ***illégalement***. Pour ce faire, appuyez sur la touche **ModKit** ***(P par défaut)***, allez dans **Interactions**, puis cliquez sur *Démarrer un véhicule | Illégal* pour **démarrer un véhicule** ou sur *Ouvrir un véhicule | Illégal* pour **ouvrir un véhicule**.
 
 # ⚙️ ***Fonctionnalités***
-⁃ Permet de *déverrouiller* une voiture ***illégalement***. 
+⁃ Permet de *déverrouiller* une voiture ***illégalement***.                
 ⁃ Permet de *démarrer* un véhicule ***illégalement***.
 
 # 🕹️ ***Comment jouer ?***
